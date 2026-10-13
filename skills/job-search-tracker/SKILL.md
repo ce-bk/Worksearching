@@ -47,6 +47,8 @@ If the interview rate is strong, focus on conversion. Most searches leak between
 
 ## 3. Sourcing and networking
 
+For mapping contacts, drafting outreach and preparing coffee chats, use the pm-networking-outreach skill.
+
 - Tell your network specifically what you're looking for. Many roles are shared before they're posted, and referrals convert far better than cold applications.
 - Prefer fewer, better-targeted applications over volume. Check each role against the persona before applying.
 - Use LinkedIn alongside niche job boards. Ask the user which boards serve their sector or region.

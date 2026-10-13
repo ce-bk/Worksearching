@@ -1,11 +1,12 @@
 # Job search skills for Claude
 
-Three Claude skills for running a product management job search, from tailoring a CV through interview prep to salary negotiation. They're generic on purpose: each one asks for your own base profile the first time you use it, so anyone can use them.
+Four Claude skills for running a product management job search, from networking and tailoring a CV through interview prep to salary negotiation. They're generic on purpose: each one asks for your own base profile the first time you use it, so anyone can use them.
 
 | Skill | What it does |
 |---|---|
 | [`job-search-cv-tailor`](skills/job-search-cv-tailor/SKILL.md) | Builds a base profile and personas, scores a job description against it, and produces a one-page ATS-friendly CV and a cover letter. |
 | [`pm-interview-prep`](skills/pm-interview-prep/SKILL.md) | Coaches STAR behavioural answers, structures product sense answers, and plans a pitch deck or case study. |
+| [`pm-networking-outreach`](skills/pm-networking-outreach/SKILL.md) | Maps your network against target companies, drafts warm and cold messages and referral asks, preps coffee chats, and keeps follow-ups on track. |
 | [`job-search-tracker`](skills/job-search-tracker/SKILL.md) | Keeps an application log, calculates interview and offer rates, finds where the funnel leaks, and prepares salary negotiation. |
 
 ## How to install
@@ -28,6 +29,7 @@ Start with `job-search-cv-tailor` on your first run. It will ask you questions o
 Then:
 
 - Share a job description to get a match score, a gap analysis, a tailored CV and a cover letter.
+- Use `pm-networking-outreach` to find a way into target companies before you apply.
 - Practise with `pm-interview-prep` before interviews.
 - Log each application with `job-search-tracker` so you can see what's working.
 
