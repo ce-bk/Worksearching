@@ -1,6 +1,6 @@
 ---
 name: pm-networking-outreach
-description: Plan and write networking outreach for a product management job search: map the user's network against target companies, draft warm and cold messages to PMs and hiring managers, ask for referrals, prepare for coffee chats, and keep follow-ups on track. Use when the user wants to reach out to someone, find a way into a company, ask for a referral, or follow up.
+description: "Plan and write networking outreach for a product management job search: map the user's network against target companies, draft warm and cold messages to PMs and hiring managers, ask for referrals, prepare for coffee chats, and keep follow-ups on track. Use when the user wants to reach out to someone, find a way into a company, ask for a referral, or follow up."
 ---
 
 # PM networking and outreach

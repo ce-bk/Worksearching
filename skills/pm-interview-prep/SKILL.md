@@ -1,6 +1,6 @@
 ---
 name: pm-interview-prep
-description: Prepare for PM interviews: score STAR behavioural answers with follow-up drills, structure product sense answers, and plan a pitch deck or case study. Use for interview practice, mock questions, or a product prompt to prep.
+description: "Prepare for PM interviews: score STAR behavioural answers with follow-up drills, structure product sense answers, and plan a pitch deck or case study. Use for interview practice, mock questions, or a product prompt to prep."
 ---
 
 # PM interview prep

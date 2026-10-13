@@ -1,6 +1,6 @@
 ---
 name: job-search-cv-tailor
-description: Tailor a one-page ATS-friendly CV and a two-paragraph cover letter to a specific job description, with an honest match score, gap analysis and a base profile setup. Use when the user shares a job post and wants an application pack.
+description: "Tailor a one-page ATS-friendly CV and a two-paragraph cover letter to a specific job description, with an honest match score, gap analysis and a base profile setup. Use when the user shares a job post and wants an application pack."
 ---
 
 # Job search: CV and cover letter tailor

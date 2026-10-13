@@ -1,6 +1,6 @@
 ---
 name: job-search-tracker
-description: Keep a job application log, calculate interview and offer rates, diagnose where the search is leaking, and prepare salary negotiation. Use when logging applications, asking how the search is going, or preparing for an offer.
+description: "Keep a job application log, calculate interview and offer rates, diagnose where the search is leaking, and prepare salary negotiation. Use when logging applications, asking how the search is going, or preparing for an offer."
 ---
 
 # Job search tracker, funnel insights and negotiation
