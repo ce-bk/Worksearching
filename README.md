@@ -15,8 +15,8 @@ Each skill is a folder containing a `SKILL.md` file. Install whichever ones you 
 **Claude Code:** copy the folders into your skills directory.
 
 ```bash
-git clone https://github.com/ce-bk/job-search-skills.git
-cp -r job-search-skills/skills/* ~/.claude/skills/
+git clone https://github.com/ce-bk/Worksearching.git
+cp -r Worksearching/skills/* ~/.claude/skills/
 ```
 
 **Claude.ai and the desktop app:** zip an individual skill folder (for example `job-search-cv-tailor/`) and add it as a custom skill in your settings.
